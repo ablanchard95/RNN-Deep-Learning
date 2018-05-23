@@ -1,5 +1,5 @@
 # RNN-Deep-Learning
-Tweet Generator
+Tweet Generator: brandon_branch
 
 ## How to run the program
 
