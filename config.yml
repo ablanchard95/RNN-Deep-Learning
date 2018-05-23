@@ -1,0 +1,24 @@
+consumer_key: yc2ICAwsHaikwoQBDFKlvq7so
+consumer_secret: L3Q1f0igM3QPP84HJsXe4UOBxefHsEZLGQzGrOnOjctVxITvr6
+access_key: 800879659235872768-L94rKLBqbN96JOBIJ1zwztalsy3tnSJ
+access_secret: N8w2jBsZqviFLTSPzsGS11xQb8D9reRAAdpwE3g6dXf92
+
+
+twitter_users:
+  - BarackObama
+  - D_DeGea
+
+num_epochs: 5
+gen_epochs: 1
+batch_size: 128
+prop_keep: 1.0
+new_model: False
+
+# Only applicable if new_model: True
+model_config:
+  rnn_layers: 2
+  rnn_size: 128
+  rnn_bidirectional: False
+  max_length: 40
+  dim_embeddings: 100
+  word_level: False
