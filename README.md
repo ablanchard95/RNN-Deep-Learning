@@ -5,7 +5,7 @@ Tweet Generator: brandon_branch
 
 To run this program you will need to have PyCharm installed. 
 
-In PyCharn open the terminal and type: `python`
+In PyCharn open the provided terminal and type: `python`
 Then type: `from textgenrnn import textgenrnn`
 
 Once the import statement has completed type:
