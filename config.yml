@@ -4,8 +4,7 @@ access_key:
 access_secret: 
 
 twitter_users:
-  - realDonaldTrump
-  - dril
+  - 
 
 num_epochs: 5
 gen_epochs: 1
