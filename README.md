@@ -1,4 +1,5 @@
 # RNN-Deep-Learning
+<<<<<<< HEAD
 Tweet Generator: brandon_branch
 
 ## How to run the program
@@ -24,3 +25,18 @@ Success! You have now generated random tweets
 ** Note: ** In the `config.yml` file, you will need to enter your own Twitter API keys. This can
 be easily acquired by creating your own Twitter account and look for a developer section within
 the site.
+=======
+Tweet Generator
+
+(tweet tweet)
+
+Requirements:
+  -tensorflow
+  -textgenrnn
+  -tweepy
+  
+ Be sure to include your Twitter credentials in the config.yml file, and also the users you watn to use for the program.
+ If you do not have the Twitter credentials i.e. your Consumer or Access key, simply go to apps.twitter.com and create an app.
+ After doing so your keys should be available.
+
+>>>>>>> d99ed09b18a850b2c1e4bd1b9891a27be99a92d6
