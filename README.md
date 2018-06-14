@@ -20,3 +20,7 @@ Then type:
 `textgen.generate_samples()`
 
 Success! You have now generated random tweets
+
+** Note: ** In the `config.yml` file, you will need to enter your own Twitter API keys. This can
+be easily acquired by creating your own Twitter account and look for a developer section within
+the site.
