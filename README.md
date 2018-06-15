@@ -1,6 +1,6 @@
 # RNN-Deep-Learning
 
-Tweet Generator: brandon_branch
+Tweet Generator: eric_branch
 
 ## How to run the program
 
@@ -11,14 +11,14 @@ Then type: `from textgenrnn import textgenrnn`
 
 Once the import statement has completed type:
 
-`textgen = textgenrnn('BarackObama_D_DeGea_twitter_weights.hdf5')`
+`textgen = textgenrnn('RealDonaldTrump_twitter_weights.hdf5')`
 
 ** Your file inside the textgenrnn statement might be different than mine if you decide to
 user different twitter accounts **
 
 Then type:
 
-`textgen.generate_samples()`
+`textgen.generate_samples(samples per temperature, list of temperatures)`
 
 Success! You have now generated random tweets
 

@@ -1,13 +1,13 @@
-consumer_key: 
-consumer_secret: 
-access_key: 
-access_secret: 
+consumer_key:
+consumer_secret:
+access_key:
+access_secret:
 
 
 twitter_users:
-  - BarackObama
+  - RealDonaldTrump
 
-num_epochs: 5
+num_epochs: 10
 gen_epochs: 1
 batch_size: 128
 prop_keep: 1.0
